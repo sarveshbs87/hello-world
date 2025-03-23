@@ -1,0 +1,14 @@
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\bin\Debug\net8.0\PracticeEncapsulation.exe
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\bin\Debug\net8.0\PracticeEncapsulation.deps.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\bin\Debug\net8.0\PracticeEncapsulation.runtimeconfig.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\bin\Debug\net8.0\PracticeEncapsulation.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\bin\Debug\net8.0\PracticeEncapsulation.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\PracticeEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\PracticeEncapsulation.AssemblyInfoInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\PracticeEncapsulation.AssemblyInfo.cs
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\PracticeEncapsulation.csproj.CoreCompileInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\PracticeEncapsulation.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\refint\PracticeEncapsulation.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\PracticeEncapsulation.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\PracticeEncapsulation.genruntimeconfig.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Encapsulation\PracticeEncapsulation\PracticeEncapsulation\obj\Debug\net8.0\ref\PracticeEncapsulation.dll

@@ -1,0 +1,14 @@
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\bin\Debug\net8.0\PracticeProblemsLeet.exe
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\bin\Debug\net8.0\PracticeProblemsLeet.deps.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\bin\Debug\net8.0\PracticeProblemsLeet.runtimeconfig.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\bin\Debug\net8.0\PracticeProblemsLeet.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\bin\Debug\net8.0\PracticeProblemsLeet.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\PracticeProblemsLeet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\PracticeProblemsLeet.AssemblyInfoInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\PracticeProblemsLeet.AssemblyInfo.cs
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\PracticeProblemsLeet.csproj.CoreCompileInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\PracticeProblemsLeet.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\refint\PracticeProblemsLeet.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\PracticeProblemsLeet.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\PracticeProblemsLeet.genruntimeconfig.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PracticeProblemsLeet\PracticeProblemsLeet\obj\Debug\net8.0\ref\PracticeProblemsLeet.dll

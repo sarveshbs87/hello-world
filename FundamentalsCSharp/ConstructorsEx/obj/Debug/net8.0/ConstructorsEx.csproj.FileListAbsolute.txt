@@ -1,0 +1,14 @@
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\bin\Debug\net8.0\ConstructorsEx.exe
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\bin\Debug\net8.0\ConstructorsEx.deps.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\bin\Debug\net8.0\ConstructorsEx.runtimeconfig.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\bin\Debug\net8.0\ConstructorsEx.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\bin\Debug\net8.0\ConstructorsEx.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\ConstructorsEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\ConstructorsEx.AssemblyInfoInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\ConstructorsEx.AssemblyInfo.cs
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\ConstructorsEx.csproj.CoreCompileInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\ConstructorsEx.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\refint\ConstructorsEx.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\ConstructorsEx.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\ConstructorsEx.genruntimeconfig.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\ConstructorsEx\obj\Debug\net8.0\ref\ConstructorsEx.dll

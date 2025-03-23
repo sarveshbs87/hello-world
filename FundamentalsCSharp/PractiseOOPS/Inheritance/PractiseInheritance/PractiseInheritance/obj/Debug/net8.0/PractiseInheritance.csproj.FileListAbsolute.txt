@@ -1,0 +1,14 @@
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\bin\Debug\net8.0\PractiseInheritance.exe
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\bin\Debug\net8.0\PractiseInheritance.deps.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\bin\Debug\net8.0\PractiseInheritance.runtimeconfig.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\bin\Debug\net8.0\PractiseInheritance.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\bin\Debug\net8.0\PractiseInheritance.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\PractiseInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\PractiseInheritance.AssemblyInfoInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\PractiseInheritance.AssemblyInfo.cs
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\PractiseInheritance.csproj.CoreCompileInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\PractiseInheritance.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\refint\PractiseInheritance.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\PractiseInheritance.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\PractiseInheritance.genruntimeconfig.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractiseOOPS\Inheritance\PractiseInheritance\PractiseInheritance\obj\Debug\net8.0\ref\PractiseInheritance.dll

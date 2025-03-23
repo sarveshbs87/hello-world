@@ -1,0 +1,14 @@
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\PractisePrograms2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\PractisePrograms2.AssemblyInfoInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\PractisePrograms2.AssemblyInfo.cs
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\PractisePrograms2.csproj.CoreCompileInputs.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\bin\Debug\net8.0\PractisePrograms2.exe
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\bin\Debug\net8.0\PractisePrograms2.deps.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\bin\Debug\net8.0\PractisePrograms2.runtimeconfig.json
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\bin\Debug\net8.0\PractisePrograms2.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\bin\Debug\net8.0\PractisePrograms2.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\PractisePrograms2.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\refint\PractisePrograms2.dll
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\PractisePrograms2.pdb
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\PractisePrograms2.genruntimeconfig.cache
+D:\Braincode\DotNET\Inventateq-Course\PractisePrograms\FundamentalsCSharp\PractisePrograms2\PractisePrograms2\obj\Debug\net8.0\ref\PractisePrograms2.dll

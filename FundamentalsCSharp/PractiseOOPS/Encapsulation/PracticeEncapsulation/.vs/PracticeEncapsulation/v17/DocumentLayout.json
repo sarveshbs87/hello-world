@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|d:\\braincode\\dotnet\\inventateq-course\\practiseprograms\\fundamentalscsharp\\practiseoops\\encapsulation\\practiceencapsulation\\practiceencapsulation\\programfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|solutionrelative:practiceencapsulation\\programfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|d:\\braincode\\dotnet\\inventateq-course\\practiseprograms\\fundamentalscsharp\\practiseoops\\encapsulation\\practiceencapsulation\\practiceencapsulation\\programfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|solutionrelative:practiceencapsulation\\programfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|d:\\braincode\\dotnet\\inventateq-course\\practiseprograms\\fundamentalscsharp\\practiseoops\\encapsulation\\practiceencapsulation\\practiceencapsulation\\practiceencapsulation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|solutionrelative:practiceencapsulation\\practiceencapsulation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|d:\\braincode\\dotnet\\inventateq-course\\practiseprograms\\fundamentalscsharp\\practiseoops\\encapsulation\\practiceencapsulation\\practiceencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|solutionrelative:practiceencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|d:\\braincode\\dotnet\\inventateq-course\\practiseprograms\\fundamentalscsharp\\practiseoops\\encapsulation\\practiceencapsulation\\practiceencapsulation\\programtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|solutionrelative:practiceencapsulation\\programtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|d:\\braincode\\dotnet\\inventateq-course\\practiseprograms\\fundamentalscsharp\\practiseoops\\encapsulation\\practiceencapsulation\\practiceencapsulation\\programthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB37B6C6-0C68-4106-B9D7-20BE9E30A82C}|PracticeEncapsulation\\PracticeEncapsulation.csproj|solutionrelative:practiceencapsulation\\programthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramFive.cs",
+              "DocumentMoniker": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\ProgramFive.cs",
+              "RelativeDocumentMoniker": "PracticeEncapsulation\\ProgramFive.cs",
+              "ToolTip": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\ProgramFive.cs",
+              "RelativeToolTip": "PracticeEncapsulation\\ProgramFive.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:11:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PracticeEncapsulation",
+              "DocumentMoniker": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\PracticeEncapsulation.csproj",
+              "RelativeDocumentMoniker": "PracticeEncapsulation\\PracticeEncapsulation.csproj",
+              "ToolTip": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\PracticeEncapsulation.csproj",
+              "RelativeToolTip": "PracticeEncapsulation\\PracticeEncapsulation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T08:00:30.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramFour.cs",
+              "DocumentMoniker": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\ProgramFour.cs",
+              "RelativeDocumentMoniker": "PracticeEncapsulation\\ProgramFour.cs",
+              "ToolTip": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\ProgramFour.cs",
+              "RelativeToolTip": "PracticeEncapsulation\\ProgramFour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:59:35.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramThree.cs",
+              "DocumentMoniker": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\ProgramThree.cs",
+              "RelativeDocumentMoniker": "PracticeEncapsulation\\ProgramThree.cs",
+              "ToolTip": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\ProgramThree.cs",
+              "RelativeToolTip": "PracticeEncapsulation\\ProgramThree.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:57:47.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProgramTwo.cs",
+              "DocumentMoniker": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\ProgramTwo.cs",
+              "RelativeDocumentMoniker": "PracticeEncapsulation\\ProgramTwo.cs",
+              "ToolTip": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\ProgramTwo.cs",
+              "RelativeToolTip": "PracticeEncapsulation\\ProgramTwo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwFsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:14:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeEncapsulation\\Program.cs",
+              "ToolTip": "D:\\Braincode\\DotNET\\Inventateq-Course\\PractisePrograms\\FundamentalsCSharp\\PractiseOOPS\\Encapsulation\\PracticeEncapsulation\\PracticeEncapsulation\\Program.cs",
+              "RelativeToolTip": "PracticeEncapsulation\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:30:38.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
